@@ -28,7 +28,7 @@ body {
 .center .camera {
   width: 20rem;
   height: 15rem;
-  background-color: #d2dae2;
+  background-color: #83e1f7;
   border-radius: 1rem;
   -webkit-box-shadow: 0 1rem 91rem 1rem #6a6a7a;
           box-shadow: 0 1rem 91rem 1rem #6a6a7a;
@@ -76,7 +76,7 @@ body {
   width: 9rem;
   height: 9rem;
   border-radius: 50%;
-  background-color: #66717a;
+  background-color: #413d53;
   position: absolute;
 }
 
